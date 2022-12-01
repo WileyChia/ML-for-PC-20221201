@@ -1,1 +1,1 @@
-# ML-for-PC-20221201
+# This repo was created for the manuscript entitled "Machine learning was used to predict risk factors for distant metastasis of pancreatic cancer and prognosis analysis" to facilitate replication of the study.
